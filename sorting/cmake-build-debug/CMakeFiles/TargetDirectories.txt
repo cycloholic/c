@@ -1,0 +1,3 @@
+C:/Users/Cyclo/CLionProjects/sorting/cmake-build-debug/CMakeFiles/sorting.dir
+C:/Users/Cyclo/CLionProjects/sorting/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Cyclo/CLionProjects/sorting/cmake-build-debug/CMakeFiles/rebuild_cache.dir
