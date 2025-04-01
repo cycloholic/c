@@ -22,6 +22,7 @@ Compile and run using g++:
 ```bash
 g++ main.cpp -o tictactoe
 ./tictactoe
+```
 
 ## 📸 Screenshot
 ![Screenshot](tiktaktoe/ttt.png)
