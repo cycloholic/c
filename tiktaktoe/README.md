@@ -22,3 +22,6 @@ Compile and run using g++:
 ```bash
 g++ main.cpp -o tictactoe
 ./tictactoe
+
+📸 Screenshot
+![Screenshot](cycloholic/c/blob/main/tiktaktoe/ttt.png))
