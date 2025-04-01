@@ -25,5 +25,4 @@ g++ main.cpp -o tictactoe
 ```
 
 ## 📸 Screenshot
-![Screenshot](tiktaktoe/ttt.png)
-
+![Screenshot](https://raw.githubusercontent.com/cycloholic/c/main/tiktaktoe/ttt.png)
