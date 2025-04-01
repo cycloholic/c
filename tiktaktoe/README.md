@@ -23,5 +23,6 @@ Compile and run using g++:
 g++ main.cpp -o tictactoe
 ./tictactoe
 
-📸 Screenshot
-![Screenshot](cycloholic/c/blob/main/tiktaktoe/ttt.png))
+## 📸 Screenshot
+![Screenshot](tiktaktoe/ttt.png)
+
